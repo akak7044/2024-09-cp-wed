@@ -5,6 +5,6 @@
 
 | 주차 | 실습 |
 |:-----:|-----:|
-| 1  |Hello World |
+| 1 |Hello World |
 | 2 | Gitghub classroom |
 | 3 | Github Action |
